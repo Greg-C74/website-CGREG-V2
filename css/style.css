@@ -11,7 +11,7 @@ html, body {
    color: #505962;
 }
 .text-nuno {
-   color: #1EBBA3;
+   color: #07edbb;
 }
 
 /*--- Nav Scrolling Offset --*/
@@ -29,7 +29,7 @@ html, body {
 
 /*============= NAVIGATION =============*/
 .navbar-brand img {
-   height: 2rem;
+   height: 2.5rem;
 }
 .navbar {
    padding: .7rem 1rem;
@@ -48,7 +48,7 @@ html, body {
 }
 .navbar-nav .nav-link.active,
 .navbar-nav .nav-link:hover {
-   color: #1EBBA3;
+   color: #07edbb;
 }
 .custom-toggler-icon {
    color: white;
@@ -91,7 +91,7 @@ button, a, a.btn,
    left: 0;
 }
 .home-inner {
-   background-image: url('https://via.placeholder.com/2000x1333');
+   background: repeating-radial-gradient(circle at 90% 10%, black, transparent, black),url('../img/computers1.jpg');
    position: fixed;
    height: 100%;
    width: 100%;
@@ -113,13 +113,13 @@ button, a, a.btn,
 }
 .caption h1 {
    font-size: 4.5rem;
-   letter-spacing: .3rem;
-   text-shadow: .1rem .1rem .8rem black;
+   letter-spacing: .4rem;
+   text-shadow: .3rem .3rem .8rem black;
    padding-bottom: 1rem;
 }
 .caption h3 {
    font-size: 2.5rem;
-   text-shadow: .1rem .1rem .5rem black;
+   text-shadow: .3rem .3rem .5rem black;
    padding-bottom: 2rem;
 }
 .caption .btn-lg {
