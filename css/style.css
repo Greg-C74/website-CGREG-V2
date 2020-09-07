@@ -72,6 +72,18 @@ button, a, a.btn,
    transition: all .6s ease;
 }
 
+.btn-outline-light:not(:disabled):not(.disabled).active, .btn-outline-light:not(:disabled):not(.disabled):active, .show>.btn-outline-light.dropdown-toggle {
+   color: #212529;
+   background-color: #ffffff;
+   border-color: #07edbb;
+}
+
+.btn-outline-light:hover {
+   color: #212529;
+   background-color: #ffffff;
+   border-color: #07edbb;
+}
+
 /*============= LANDING PAGE =============*/
 
 /*--- Fixed Landing Page Section --*/
