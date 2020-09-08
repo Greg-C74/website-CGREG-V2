@@ -149,7 +149,7 @@ button, a, a.btn,
    -webkit-animation: bounce 2s infinite;
 }
 .down-arrow .svg-inline--fa {
-   color: white;
+   color: #07edbb;
    font-size: 2.2rem;
    opacity: .3;
 }
@@ -168,7 +168,7 @@ button, a, a.btn,
    margin: 1rem;
 }
 .btn-nuno {
-   background-color: #1EBBA3;
+   background-color: #07edbb;
    color: white;
 }
 .btn-nuno:hover {
@@ -189,7 +189,7 @@ h3.heading {
    margin: 0 auto 2rem;
 }
 .feature span {
-   color: #1EBBA3;
+   color: #07edbb;
    margin-bottom: .6rem;
 }
 .feature h3 {
