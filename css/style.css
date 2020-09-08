@@ -476,13 +476,13 @@ a.top-scroll:hover {
       font-size: 2rem;
    }
    .fixed-dark {
-      background-image: url('https://via.placeholder.com/982x1000')
+      background-image: url('../img/fixed/computer-mobile.jpg')
    }
    .fixed-light {
-      background-image: url('https://via.placeholder.com/1163x1002')
+      background-image: url('../img/fixed/offices-mobile.jpg')
    }
    .footer {
-      background: url('https://via.placeholder.com/2000x1440') no-repeat;
+      background: url('../img/footer/Ripples-mobileb.jpg') no-repeat;
    }
    .top-scroll {
       display: none!important;
