@@ -283,7 +283,7 @@ h3.heading {
 
 /*--- Team Light Background Image --*/
 .fixed-light {
-   background-image: url('https://via.placeholder.com/1500x1002');
+   background-image: repeating-radial-gradient(circle at 90% 10%, black, transparent, black), url('../img/fixed/offices.jpg');
    position: fixed;
    height: 100%;
    width: 100%;
@@ -298,7 +298,7 @@ h3.heading {
    display: table;
 }
 .light {
-   background-color: rgba(255, 255, 255, .75);
+   background-color: rgba(0, 0, 0, .3);
    padding: 5rem 0;
    z-index: 1000;
 }
@@ -366,10 +366,10 @@ blockquote .svg-inline--fa {
 /*============= CONTACT SECTION =============*/
 
 .footer {
-   background: url('https://via.placeholder.com/2000x722') no-repeat;
+   background: url('../img/footer/Ripples.jpg') no-repeat;
    background-size: cover;
    color: white;
-   /* background-color: #505962; */
+   
 }
 .row.outer {
    background-color: rgba(57, 63, 70, .85);
