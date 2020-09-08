@@ -215,7 +215,7 @@ h3.heading {
    z-index: -9999;
 }
 .fixed-dark {
-   background-image: url('https://via.placeholder.com/1500x1000');
+   background-image: url('../img/computer.jpg');
    position: fixed;
    height: 100%;
    width: 100%;
