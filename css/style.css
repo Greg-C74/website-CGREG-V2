@@ -185,7 +185,7 @@ h3.heading {
 .heading-underline {
    width: 3rem;
    height: .2rem;
-   background-color: #1EBBA3;
+   background-color: #07edbb;
    margin: 0 auto 2rem;
 }
 .feature span {
@@ -215,7 +215,7 @@ h3.heading {
    z-index: -9999;
 }
 .fixed-dark {
-   background-image: url('../img/computer.jpg');
+   background-image: url('../img/fixed/computer.jpg');
    position: fixed;
    height: 100%;
    width: 100%;
@@ -251,7 +251,7 @@ h3.heading {
    background-color: white;
    height: 100%;
    padding: 1.6rem;
-   border-top: .25rem solid #1EBBA3;
+   border-top: .25rem solid #07edbb;
    box-shadow: 0 0 .8rem rgba(0, 0, 0, .075);
    transition: transform .7s ease;
    position: relative;
