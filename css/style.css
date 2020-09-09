@@ -125,8 +125,8 @@ button, a, a.btn,
 }
 .caption h1 {
    font-size: 4.5rem;
-   letter-spacing: .4rem;
-   text-shadow: .3rem .3rem .8rem black;
+   letter-spacing: .3rem;
+   text-shadow: .1rem .1rem 0 black;
    padding-bottom: 1rem;
 }
 .caption h3 {
